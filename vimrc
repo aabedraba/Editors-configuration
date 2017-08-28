@@ -18,5 +18,9 @@ filetype plugin indent on    " required
 
 set tabstop=2			"tab count 2 spaces
 set softtabstop=2 "default tab stop
-set shiftwidth=2	"Vim indent after
+set shiftwidth=2	"Vim indent after <enter>
 set number				"numbers at the left panel
+set noexpandtab		"So the tabs doesn't convert to spaces
+syntax enable			"Syntax colors enable
+set showmatch			"Highlight matching brackets, etc
+set wrap					
