@@ -26,4 +26,4 @@ syntax enable     "Syntax colors enable
 set showmatch     "Highlight matching brackets, etc
 set wrap
 "-------------------Map keys----------------------"
-map <C-n> :NERDTreeToggle<CR> "Cntrl-c triggers NERDTree plugin
+map <C-n> :NERDTreeToggle<CR> "Cntrl-n triggers NERDTree plugin
