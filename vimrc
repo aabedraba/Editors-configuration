@@ -14,7 +14,7 @@ Plugin 'gregsexton/matchtag'		"match tags in HTML
 "---------------------------"
 call vundle#end()            " required
 filetype plugin indent on    " required
-"---------------------------------------------------"
+"--------------------------------------------------"
 
 set tabstop=2			"tab count 2 spaces
 set softtabstop=2 "default tab stop
