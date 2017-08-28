@@ -25,4 +25,5 @@ set noexpandtab   "So the tabs doesn't convert to spaces
 syntax enable     "Syntax colors enable
 set showmatch     "Highlight matching brackets, etc
 set wrap
-"--------------------------------------------------"
+"-------------------Map keys----------------------"
+map <C-n> :NERDTreeToggle<CR> "Cntrl-c triggers NERDTree plugin
