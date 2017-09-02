@@ -21,7 +21,7 @@ If you want to use any of my configurations, these are the steps:
   ```
   
   ```
-  $ git clone https://github.com/aabedraba/Editors-Config/Vim/.vimrc ~/Editors-Config
+  $ git clone https://github.com/aabedraba/Editors-Configuration/Vim/.vimrc ~/Editors-Config
   $ vim +PluginInstall
   ```
   
