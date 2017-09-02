@@ -28,3 +28,14 @@ If you want to use any of my configurations, these are the steps:
  You can see all the plugins that I have installed commented in the .vimrc file.
  ## Virtual Studio Code
  For my Virtual Studio Code, I mainly configured code snippets for C++, which was pretty essential for me. You can copying my cpp.json snippet file into yours. You can find it triggering the commands tab (Cntrl+Shift+P), type 'snippets' and click on 'Preferece: open user snippets' and choosing 'C++'. 
+ 
+ The plugins I have installed are the following:
+* C/C++ (complete C/C++ language support).
+* C/C++ Snippets (a lot of useful C/C++ snippets: for loops, classes, etc).
+* Code Runner (compiles and run C++ code in a glimpse).
+* One Dark Pro (my favorite theme).
+
+Additional extensions:
+* View in Browser (fast key-binding to open HTML code in the browser).
+* Docker (Docker's syntax highlighting, snippets, etc).
+
